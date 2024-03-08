@@ -35,4 +35,4 @@ For image generation,
 
 ## References
 
-[link](https://archiv.zwangsarbeit-archiv.de/ "Forced Labor 1939-1945 Memory and History")
+[Interview Archive](https://archiv.zwangsarbeit-archiv.de/ "Forced Labor 1939-1945 Memory and History")
