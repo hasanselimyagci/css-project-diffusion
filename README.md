@@ -15,6 +15,7 @@ Utilizing Generative AI models to construct visual representations of forced lab
 
 For text analysis part, 
 * Keyphrase and descriptive phrases extraction utilizing PoS tagging token classifier models
+
 For image generation,
 * Pretrained Stable Diffusion model for Text-to-Image (Further experiments with Image-to-Image model)
 * Leveraging GPT-Neo model to generate better prompts given extracted keyphrases
