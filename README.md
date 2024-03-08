@@ -31,3 +31,8 @@ For image generation,
 * Remembering forced labor can help reflecting ideas to current rights and justice issues concerning labor exploitation
 * AI can empower individuals who want to contribute to memorialization practices with limitless creativity (although limited through explicit list of banned prompts)
 * Models trained on different language texts help us understand different narratives among cultures and memory politics
+
+
+## References
+
+[link](https://archiv.zwangsarbeit-archiv.de/ "Forced Labor 1939-1945 Memory and History")
