@@ -1,5 +1,9 @@
 # Imagined Recollections: Exploring Memories of Forced Labor through AI-Generated Imagery
 
+<p align="center">
+    <img src="https://github.com/hasanselimyagci/css-project-diffusion/blob/main/overview.png">
+  </p>
+
 With the recent developments in generative forms of Artificial Intelligence (AI), it is vital to rethink our interaction with history, atrocities and memorialization. The digital media has already transformed the accessibility of memories through web archives of images, interviews and evidences. In this project, using the interview data available on digital Forced Labor archives, we investigated the capabilities of diffusion models to generate memory guided visual representations. Despite the limits of the model, the results showed promising results which potentially can help past atrocities be more accessible to young people and consequently increase awareness towards current labor exploitation and other rights and justice issues.
 
 ## Motivation
@@ -12,10 +16,6 @@ With the recent developments in generative forms of Artificial Intelligence (AI)
 ## Overivew 
 
 Utilizing Generative AI models to construct visual representations of forced labor victims’ memories.
-
-<p align="center">
-    <img src="https://github.com/hasanselimyagci/css-project-diffusion/blob/main/overview.png">
-  </p>
 
 ## Technical Aspects
 
