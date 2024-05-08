@@ -13,6 +13,10 @@ With the recent developments in generative forms of Artificial Intelligence (AI)
 
 Utilizing Generative AI models to construct visual representations of forced labor victims’ memories.
 
+<p align="center">
+    <img src="https://github.com/hasanselimyagci/css-project-diffusion/blob/main/overview.png">
+  </p>
+
 ## Technical Aspects
 
 For text analysis part, 
