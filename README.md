@@ -24,7 +24,7 @@ For text analysis part,
 
 For image generation,
 * Pretrained Stable Diffusion model for Text-to-Image (Further experiments with Image-to-Image model)
-* Leveraging GPT-Neo model to generate better prompts given extracted keyphrases
+* Leveraging GPT model to generate better prompts given extracted keyphrases
 * Prompt weighing and negative prompts to improve quality of images
 * Further improving aesthetics and prompt-image alignment with implementing RL approaches
 
