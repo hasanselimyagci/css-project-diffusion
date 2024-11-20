@@ -19,14 +19,16 @@ Utilizing Generative AI models to construct visual representations of forced lab
 
 ## Technical Aspects
 
-For text analysis part, 
-* Keyphrase and descriptive phrases extraction utilizing PoS tagging token classifier models
+Description retrieval:
 
-For image generation,
+* Langchain, ChromaDB, HF Embeddings
+* Documents from interview archive
+* Llama 3.2-1B-instruct model as the core LLM
+  
+Image generation:
+
 * Pretrained Stable Diffusion model for Text-to-Image (Further experiments with Image-to-Image model)
-* Leveraging GPT model to generate better prompts given extracted keyphrases
 * Prompt weighing and negative prompts to improve quality of images
-* Further improving aesthetics and prompt-image alignment with implementing RL approaches
 
 ## Discussion and Findings
 
@@ -37,6 +39,10 @@ For image generation,
 * Remembering forced labor can help reflecting ideas to current rights and justice issues concerning labor exploitation
 * AI can empower individuals who want to contribute to memorialization practices with limitless creativity (although limited through explicit list of banned prompts)
 * Models trained on different language texts help us understand different narratives among cultures and memory politics
+
+## Further Works
+
+* Further improving aesthetics and prompt-image alignment with implementing RL approaches (policy optimization techniques, integrating VLMs, etc.)
 
 
 ## References
